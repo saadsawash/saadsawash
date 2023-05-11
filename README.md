@@ -7,6 +7,14 @@ I'm Saad Sawash, a **full-stack developer** who's passionate about creating exce
 - I'm currently working as a fully remote **Junior Software Engineer** at [HorizonLabs](https://www.madeinhorizon.com/).
 - You can contact me at [saadsawash@outlook.com](mailto:saadsawash@outlook.com).
 - Or find me on [LinkedIn](https://linkedin.com/in/saadsawash).
+
+## 💻 My Tech Stack
+
+**Programming Languages**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+|--|--|
+
+
 <!--
 **saadsawash/saadsawash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
