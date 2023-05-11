@@ -1,6 +1,9 @@
 ### 🌟 Hey, hey! Thanks for shining your light on my profile.
 I'm Saad Sawash, a **full-stack developer** who's passionate about creating exceptional user experiences. With my expertise in **frontend development** and **backend technologies**, I build responsive, intuitive web applications that deliver seamless experiences. My **user-centered approach** to design drives my commitment to crafting stunning interfaces that engage and delight users. Whether I'm collaborating with designers or back-end developers, I'm always striving to build **scalable**, **efficient** systems that meet business requirements.
 
+## 🙋‍♂️ About Me
+
+- BSc in Computer Science from the [University of Kirkuk](https://uokirkuk.edu.iq/) ([Wikipedia Entry in English](https://en.wikipedia.org/wiki/University_of_Kirkuk))
 <!--
 **saadsawash/saadsawash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
