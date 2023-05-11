@@ -1,5 +1,5 @@
 ### 🌟 Hey, hey! Thanks for shining your light on my profile.
-Hey, I'm Saad Sawash - a full-stack developer with a primary focus on frontend development. With my expertise in HTML, CSS, JavaScript, and backend technologies, I create responsive, intuitive web applications that deliver seamless user experiences. My passion for user-centered design drives my commitment to crafting stunning interfaces that engage and delight users. I love working collaboratively with designers and back-end developers to build scalable, efficient systems that meet business requirements. If you're looking for a versatile developer who can handle both front-end and back-end development, I'm your guy.
+Hi, I'm Saad Sawash, a **full-stack developer** who's passionate about creating exceptional user experiences. With my expertise in **frontend development and backend technologies**, I build _responsive_, _intuitive_ web applications that deliver seamless experiences. My **user-centered approach** to design drives my commitment to crafting stunning interfaces that engage and delight users. Whether I'm collaborating with designers or back-end developers, I'm always striving to build **scalable**, **efficient** systems that meet business requirements.
 
 <!--
 **saadsawash/saadsawash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
