@@ -10,6 +10,10 @@ I'm Saad Sawash, a **full-stack developer** who's passionate about creating exce
 
 ## 💻 My Tech Stack
 
+> "The beautiful thing about learning is that nobody can take it away from you." - B.B. King
+
+I'm a firm beliver in self-learning. 
+
 **Programming Languages**
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 |--|--|
