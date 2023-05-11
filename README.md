@@ -3,7 +3,10 @@ I'm Saad Sawash, a **full-stack developer** who's passionate about creating exce
 
 ## 🙋‍♂️ About Me
 
-- BSc in Computer Science from the [University of Kirkuk](https://uokirkuk.edu.iq/) ([Wikipedia Entry in English](https://en.wikipedia.org/wiki/University_of_Kirkuk))
+- BSc in Computer Science from the [University of Kirkuk](https://uokirkuk.edu.iq/) ([Wikipedia Entry in English](https://en.wikipedia.org/wiki/University_of_Kirkuk)).
+- I'm currently working as a fully remote **Junior Software Engineer** at [HorizonLabs](https://www.madeinhorizon.com/).
+- You can contact me at [saadsawash@outlook.com](mailto:saadsawash@outlook.com).
+- Or find me on [LinkedIn](https://linkedin.com/in/saadsawash).
 <!--
 **saadsawash/saadsawash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
