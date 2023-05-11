@@ -13,11 +13,7 @@ I'm Saad Sawash, a **full-stack developer** who's passionate about creating exce
 > "The beautiful thing about learning is that nobody can take it away from you." - B.B. King
 
 ### Programming Languages
-- JavaScript
-- Python
-
-### Frameworks/Libraries
-- React
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/javascript.svg" alt="JavaScript" width="32">
 
 
 <!--
